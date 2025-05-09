@@ -2,4 +2,6 @@
 
 Padm – The Blockchain Collaboration Cloud.
 
-Learn more at [padm.io](https://padm.io) (Website coming soon).
+🚧 Website under construction – [padm.io](https://padm.io)
+
+Explore our code and updates here on GitHub.
